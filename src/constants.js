@@ -3,3 +3,4 @@ export const paymentMethods = Object.freeze({
   visa: 'visa',
   applepay:'applepay'
 })
+
